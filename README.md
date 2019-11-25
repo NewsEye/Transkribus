@@ -15,7 +15,7 @@ Moreover Transkribus gets used to manage the generation of ground truth data for
 *	NEL - named entity linking (WP4)
 *	SD - stance detection (WP4)
 
-And finally Transkribus will process about 1,5 mill. newspaper pages with the tools developed by UROS in WP3: layout analysis, ATR and acts as exchange platform for the 'AS processing' and the ‘Demonstrator’. This means that the results are provided via the Transkribus REST API.
+And finally Transkribus will process about 1,5 mill. newspaper pages with the tools developed by UROS in WP3: layout analysis and ATR and acts as exchange platform for the 'AS processing' and the ‘Demonstrator’. The latter means that the intermediate and final results are shared via the Transkribus REST API.
 
 The Transkribus GitHub repository can be found at https://github.com/transkribus/.
 
