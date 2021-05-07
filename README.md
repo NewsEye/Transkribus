@@ -17,7 +17,7 @@ Moreover Transkribus gets used to manage the generation of ground truth data for
 
 And finally Transkribus will process about 1,5 mill. newspaper pages with the tools developed by UROS in WP3: layout analysis and ATR and acts as exchange platform for the 'AS processing' and the ‘Demonstrator’. The latter means that the intermediate and final results are shared via the Transkribus REST API.
 
-The Transkribus GitHub repository can be found at https://github.com/transkribus/.
+The Transkribus GitHub repository can be found at https://gitlab.com/readcoop/transkribus/.
 
 The repositories needed to run the local SWT based client are:
 *	PdfUtils
@@ -29,10 +29,10 @@ The repositories needed to run the local SWT based client are:
 It is recommended to check them out with Eclipse, to configure them as Maven projects and run "maven install" on them in the given order.
 
 ## Relevant Transkribus GitHub Repositories for NewsEye:
-*	https://github.com/Transkribus/PdfUtils
-*	https://github.com/Transkribus/fimagestoreClient
-*	https://github.com/Transkribus/TranskribusClient
-*	https://github.com/Transkribus/TranskribusCore
-*	https://github.com/Transkribus/TranskribusSwtGui
-*	https://github.com/Transkribus/TranskribusPyClient
-*	https://github.com/Transkribus/TranskribusErrorRate
+*	https://gitlab.com/readcoop/transkribus/PdfUtils
+*	https://gitlab.com/readcoop/transkribus/fimagestoreClient
+*	https://gitlab.com/readcoop/transkribus/TranskribusClient
+*	https://gitlab.com/readcoop/transkribus/TranskribusCore
+*	https://gitlab.com/readcoop/transkribus/TranskribusSwtGui
+*	https://gitlab.com/readcoop/transkribus/TranskribusPyClient
+*	https://gitlab.com/readcoop/transkribus/TranskribusErrorRate
