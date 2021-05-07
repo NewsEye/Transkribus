@@ -30,9 +30,9 @@ It is recommended to check them out with Eclipse, to configure them as Maven pro
 
 ## Relevant Transkribus GitHub Repositories for NewsEye:
 *	https://gitlab.com/readcoop/transkribus/PdfUtils
-*	https://gitlab.com/readcoop/transkribus/fimagestoreClient
+*	https://gitlab.com/readcoop/transkribus/fimagestore-http-client
 *	https://gitlab.com/readcoop/transkribus/TranskribusClient
 *	https://gitlab.com/readcoop/transkribus/TranskribusCore
 *	https://gitlab.com/readcoop/transkribus/TranskribusSwtGui
-*	https://gitlab.com/readcoop/transkribus/TranskribusPyClient
-*	https://gitlab.com/readcoop/transkribus/TranskribusErrorRate
+*	https://gitlab.com/readcoop/thirdparty/TranskribusPyClient
+*	https://gitlab.com/readcoop/thirdparty/TranskribusErrorRate
