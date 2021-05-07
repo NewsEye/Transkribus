@@ -16,7 +16,7 @@ Moreover Transkribus was used to manage the creation of the required training da
 *	SD - stance detection (WP4)
 
 For this purpose, the Transkribus platform thas been extended and enriched with additional methods for annotating articles and other structural elements, for creating named entities including links and stances and for exporting data in the required formats.
-And finally Transkribus was also used to process about 1,5 mill. newspaper pages with the tools developed by UROS in WP3: layout analysis and ATR and acted as exchange platform for the 'AS processing' and the ‘Demonstrator’. The latter means that the intermediate and final results were shared via the Transkribus REST API.
+And finally Transkribus was also used to process about 1,5 mill. newspaper pages with the tools developed by UROS in WP3: layout analysis and ATR and has acted as exchange platform for the 'AS processing' and the ‘Demonstrator’. The latter means that the intermediate and final results were shared via the Transkribus REST API.
 
 The Transkribus GitHub repository can be found at https://gitlab.com/readcoop/transkribus/.
 
